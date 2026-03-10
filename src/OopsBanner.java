@@ -1,5 +1,14 @@
+/**
+ * OOPS Banner App
+ *
+ * UC1: Print OOPS to Console
+ *
+ * @author Jayvant
+ * @version 1.0
+ */
 public class OopsBanner {
-    public static void main(String args[]) {
-      System.out.println("welcome to classroom");
+
+    public static void main(String[] args) {
+        System.out.println("OOPS");
     }
 }
